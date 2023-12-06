@@ -33,7 +33,7 @@ The stucture of the code is simple as each step/section of the process is separa
 
    "encode_and_pool" function performs three main steps for preprocessing the data: tokenizing, distilBERT transforming, and pooling.
 
-   - Tokenizer: the review is converted to numerical representations called tokens. The number of tokens produced depends on the length of      the review. This serves as prepartation for the distilBERT model. A graphical illustration to demonstrate the input and output               relationship of the tokenzier can be viewed below.
+  - Tokenizer: the review is converted to numerical representations called tokens. The number of tokens produced depends on the length of        the review. This serves as prepartation for the distilBERT model. A graphical illustration to demonstrate the input and output               relationship of the tokenzier can be viewed below.
    
 <img width="1406" alt="Screenshot 2023-12-05 at 6 35 49 PM" src="https://github.com/Alyssa1918/ML_Final_Project/assets/123338206/d13a86cf-886e-43dd-8b13-2d56a6db023f">
 
