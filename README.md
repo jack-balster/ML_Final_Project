@@ -11,3 +11,4 @@ The stucture of the code is simple as each step/section of the process is separa
 3. Downloads the necessary transformer packages to perform the preprocessing tasks needed for the data.
 4. Randomly selects 10000 positve samples and 10000 negative samples from the original dataset, concatinates these two subsets together to one dataset, then shuffles the rows to ensure ordering does not affect training. The reason to lower the size of the dataset is due to our restricted computational capacity. Google Colab provides up to 12 GB of RAM, which can quickly disapate when working in NLP.
 5. 
+![image](https://github.com/Alyssa1918/ML_Final_Project/assets/123338206/3411f944-6d13-4434-85cd-c84786f434ea)
