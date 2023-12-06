@@ -66,4 +66,16 @@ The stucture of the code is simple as each step/section of the process is separa
 
 ## Project Deliverables
 
-This project includes a project write-up, presentation slide deck, presentation video, project code, documentation, and a code demo. The project write-up is the FILL IN NAME OF FILE HERE file above. The presentation slide deck is located here: https://docs.google.com/presentation/d/13wMaBIabJM40SI1MSv151c9MWjgJXOGfyOF2IJuFFmY/edit?usp=sharing. The presentation video is located here: https://drive.google.com/file/d/1d1k6Sss569rh0IqrrS7alvyGgmaC68Ia/view?usp=sharing. The project code is located above in the CPTS_437_Final_Project.ipybn and at this link: https://colab.research.google.com/drive/1D7EUnZtDOcqwN8pMxG3NiV_pccAtCmF3?usp=sharing. The documentation is the README.md. Lastly, the code demo is located above in the CPTS_437_Final_Project_Demo.ipybn and here at this link: https://colab.research.google.com/drive/1UWUbXuvNvZP7HAU71wI_AhzCJyAJQuE-?usp=sharing.
+This project includes a project write-up, presentation slide deck, presentation video, project code, documentation, and a code demo. 
+
+The project write-up is the FILL IN NAME OF FILE HERE file above. 
+
+The presentation slide deck is located here: https://docs.google.com/presentation/d/13wMaBIabJM40SI1MSv151c9MWjgJXOGfyOF2IJuFFmY/edit?usp=sharing. 
+
+The presentation video is located here: https://drive.google.com/file/d/1d1k6Sss569rh0IqrrS7alvyGgmaC68Ia/view?usp=sharing. 
+
+The project code is located above in the CPTS_437_Final_Project.ipynb and at this link: https://colab.research.google.com/drive/1D7EUnZtDOcqwN8pMxG3NiV_pccAtCmF3?usp=sharing. 
+
+The documentation is this README.md. 
+
+Lastly, the code demo is located above in the CPTS_437_Final_Project_Demo.ipynb and here at this link: https://colab.research.google.com/drive/1UWUbXuvNvZP7HAU71wI_AhzCJyAJQuE-?usp=sharing.
