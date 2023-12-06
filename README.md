@@ -4,16 +4,17 @@ This is a final project for an Intro to Machine Learning course. In this project
 
 To accomplish this natural language processing task, we utilized Hugging Face's distilBERT tokenizer and model to tokenize and encode the reviews to a anumerical format. Additionally, to ensure that the length of the reviews do not impact the lengths of its numerical output, we attatched an average pooling layer to the model to standardize the vector lengths. From here, we chose four classification models to compare: KNN, SVM, decision tree, and perceptron. To evaluate and compare results, we used F1 as a metric of success. By bootstrapping the validation results 10 times (sample size 1000), we averaged the F1 score among the bootstrapped samples for each model. The chosen model is the model with the highest average F1 score.
 
-Architecture
+##Architecture
 - Environment: Google Colab which provides a Jupyter notebook interface.
 - Data Storage: Google Drive for dataset storage and access.
 - Libraries: pandas for data manipulation, sklearn for machine learning models and evaluation, ast for data type conversion, google.colab for saving files to local machine, and numpy for numerical operations.
   
-Design Principles
+##Design Principles
 - Modularity: Code is organized into differnet sections/cells for data loading, preprocessing, model training, tuning, and evaluation.
 - Scalability: The use of Google Colab allows for scalability and access to higher computational resources.
 - Reproducibility: Fixed random states in data splits and model training ensure reproducible results.
 
+##Code Structure
 The stucture of the code is simple as each step/section of the process is separated by a cells due to the orignal code being made in Google Colab. In total, there are 12 cells of code which run as follows:
 
 1. Connect to Google Drive
@@ -62,3 +63,7 @@ The stucture of the code is simple as each step/section of the process is separa
 
 12. F1 Evaluation via Bootstrapping
     Bootstraps 1000 indicies of the validation results and takes their correpsonding predictions from each model and their ground truths.        Computes the F1 score for each model within the bootstrapped subset. Repeats this process 10 times for a total of 10 bootstrapped            validation results. Averages the F1 score for each model across the 10 bootstrapped samples. Finally, prints out the final results.
+
+##Project Deliverables
+
+This project includes a project write-up, presentation slide deck, presentation video, project code, documentation, and a code demo. The project write-up is 
