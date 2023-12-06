@@ -66,4 +66,4 @@ The stucture of the code is simple as each step/section of the process is separa
 
 ## Project Deliverables
 
-This project includes a project write-up, presentation slide deck, presentation video, project code, documentation, and a code demo. The project write-up is the FILL IN NAME OF FILE HERE file above. The presentation slide deck is the 
+This project includes a project write-up, presentation slide deck, presentation video, project code, documentation, and a code demo. The project write-up is the FILL IN NAME OF FILE HERE file above. The presentation slide deck is located here: https://docs.google.com/presentation/d/13wMaBIabJM40SI1MSv151c9MWjgJXOGfyOF2IJuFFmY/edit?usp=sharing. The presentation video is located here: https://drive.google.com/file/d/1d1k6Sss569rh0IqrrS7alvyGgmaC68Ia/view?usp=sharing. The project code is located above in the CPTS 437 - Final Project.
