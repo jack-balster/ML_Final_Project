@@ -68,7 +68,7 @@ The stucture of the code is simple as each step/section of the process is separa
 
 This project includes a project write-up, presentation slide deck, presentation video, project code, documentation, and a code demo. 
 
-The project write-up is the FILL IN NAME OF FILE HERE file above. 
+The project write-up is located here: https://docs.google.com/document/d/1wf9QR98MRQJQ4KMXouotlnr4B9FB4yPwaCo33jGfEQc/edit?usp=sharing. 
 
 The presentation slide deck is located here: https://docs.google.com/presentation/d/13wMaBIabJM40SI1MSv151c9MWjgJXOGfyOF2IJuFFmY/edit?usp=sharing. 
 
